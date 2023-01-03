@@ -1,7 +1,7 @@
 ### Eaí, beleza ?! Eu sou o Giovanni 👋
 ##
 - 📚 Atualmente estudando HTML5, CSS3 e JavaScript
-- 🎯 Objetivos para 2022: aprofundar os conhecimentos em front-end e executar projetos na área
+- 🎯 Objetivos para 2023: aprofundar os conhecimentos em front-end e executar projetos na área
 
 ## Uma pequena apresentação
 
